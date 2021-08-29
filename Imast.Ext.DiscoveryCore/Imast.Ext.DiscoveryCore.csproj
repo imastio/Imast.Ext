@@ -4,7 +4,7 @@
 
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
-		<Description>Yet another utility library for .Net Core</Description>
+		<Description>An API discovery solution</Description>
 	</PropertyGroup>
-	
+
 </Project>

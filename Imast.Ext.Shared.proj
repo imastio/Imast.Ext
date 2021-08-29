@@ -1,0 +1,12 @@
+<Project Sdk="">
+
+  <PropertyGroup>
+    <Authors>imast, davitp</Authors>
+    <Version>0.0.2</Version>
+    <Company>Imast Laboratories</Company>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Copyright>Imast Laboratories</Copyright>
+    <PackageProjectUrl>https://github.com/imastio/Imast.Ext</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
