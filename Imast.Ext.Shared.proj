@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Authors>imast, davitp</Authors>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Company>Imast Laboratories</Company>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Copyright>Imast Laboratories</Copyright>

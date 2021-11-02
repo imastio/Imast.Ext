@@ -66,7 +66,7 @@ namespace Imast.Ext.ApiClient
             this.discovery = discovery;
             this.webClient = new HttpClient
             {
-                DefaultRequestHeaders = { {CLIENT_HEADER, this.client }, { CONTENT_TYPE_HEADER, JSON_MEDIA }}
+                DefaultRequestHeaders = { {CLIENT_HEADER, this.client }}
             };
         }
 
